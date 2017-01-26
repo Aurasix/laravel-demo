@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+resources/lang/
+.env
+public/assets/img/users/
+.idea/
+*.lock
+storage/settings.json

@@ -1,0 +1,28 @@
+.sortable {
+    cursor: move;
+}
+
+.ui-state-highlight {
+    height: 5.4em;
+    background: lightgray;
+}
+
+a.status-1 {
+    font-weight: bold;
+}
+
+p.modal-pre {
+    width: 104% !important;
+    padding: 20px 0 20px 20px;
+    background: #eceff4
+}
+
+div.modal-pre {
+    width: 100% !important;
+    padding: 10px 0 10px 10px;
+    background: #eceff4
+}
+
+.box-typical.box-typical-dashboard {
+    height: 384px;
+}
